@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------------
-# Organization of this project:  EvolutionSim
+# Project Organization
 #
 # EvolutionSim.py
 #    Params.py
